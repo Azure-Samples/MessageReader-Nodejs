@@ -1,4 +1,4 @@
-# Hello Windows Azure #
+# Demo - Service Bus Message Reader (Node.js) #
 
 ## Tutorial ##
 
