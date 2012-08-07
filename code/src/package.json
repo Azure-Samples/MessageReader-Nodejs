@@ -1,0 +1,8 @@
+{
+	"name": "demo-sbreadmessages",
+	"version": "0.0.1",
+	"dependencies": {
+		"azure": ">= 0.6.0",
+		"commander": ">= 0.6.1"
+	}
+}
