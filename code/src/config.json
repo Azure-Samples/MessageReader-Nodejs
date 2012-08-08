@@ -1,6 +1,0 @@
-{
-"namespace": "[sb-namespace]",
-"issuer": "[sb-issuer]",
-"accessKey": "[sb-access-key]",
-"queue": "[sb-queue-name]"
-}
