@@ -1,3 +1,9 @@
+---
+services:
+platforms:
+author: azure
+---
+
 # Demo - Service Bus Message Reader (Node.js) #
 
 ## Tutorial ##
